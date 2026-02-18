@@ -28,7 +28,3 @@ function calculateAndDisplay(fn) {
   document.getElementById(`btn-${op}`)
     .addEventListener('click', () => calculateAndDisplay(window[op]));
 });
-
-// add coment 4
-// add coment 5
-// add coment 6
