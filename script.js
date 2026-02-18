@@ -29,6 +29,6 @@ function calculateAndDisplay(fn) {
     .addEventListener('click', () => calculateAndDisplay(window[op]));
 });
 
-// add coment 1
-// add coment 2
-// add coment 3
+// add coment 4
+// add coment 5
+// add coment 6
